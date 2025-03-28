@@ -1,5 +1,4 @@
-//Name-Atharva Kale
-//PRN-22070521071
+
 
 #include <stdio.h>
 #include <stdlib.h>
