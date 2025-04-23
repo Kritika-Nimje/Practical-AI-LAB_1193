@@ -3,8 +3,8 @@
 ## 🧑‍🎓 Student Details:
 - **Name:** Ishwari Kakade 
 - **Semester:** VI  
-- **Section:** C  
-- **PRN:** 22070521071  
+- **Section:** B
+- **PRN:** 22070521183  
 
 ## 📌 Overview
 This repository contains the implementation of various AI practicals completed as part of the Semester VI curriculum. The practicals cover fundamental AI concepts, including search algorithms, constraint satisfaction problems, and NLP techniques.
