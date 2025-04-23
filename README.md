@@ -1,4 +1,3 @@
-# Practical-AI-LAB_1183
 # Artificial Intelligence (AI) Practicals
 
 ## Student Details
